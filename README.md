@@ -1,5 +1,7 @@
 # Mood - AI-powered Journaling Platform
 
+[Live Link](https://ai-journal-1.vercel.app)
+
 Mood is a smart journaling platform that allows users to express their thoughts and emotions while receiving AI-driven insights. Users can write daily journal entries, and the app generates real-time summaries, subject tags, mood analysis, and sentiment scores. Additionally, users can interact with an AI bot to ask questions based on their personal journal data.
 
 ## Problem Mood Solves
@@ -70,7 +72,39 @@ In the hustle of daily life, reflecting on our mental state and emotions is ofte
 
 ## Screenshots
 
-_Add screenshots to showcase the functionality and user interface._
+1. Home Page
+
+   ![Home Page](imgs/home.png)
+
+2. Authentication and Journal Dashboard
+
+   ![Dashboard](imgs/ai_template.png)
+
+3. Journal Entries with AI generating the color, summary, subject and mood
+
+   ![Exapmle 1](imgs/cricket.png)
+
+   ![Exapmle 2](imgs/coffee.png)
+
+   ![Exapmle 3](imgs/presentation.png)
+
+   ![Exapmle 4](imgs/project_completion.png)
+
+4. AI bot examples with different types of questions
+
+   ![Exapmle 1](imgs/ai_ex1.png)
+
+   ![Exapmle 2](imgs/ai_ex2.png)
+
+   ![Exapmle 3](imgs/ai_ex3.png)
+
+   ![Exapmle 4](imgs/ai_ex4.png)
+
+   ![Exapmle 5](imgs/ai_ex5.png)
+
+5. Sentiment Score Chart
+
+   ![Chart](imgs/average_sentiment.png)
 
 ## Feedback and Contact
 
