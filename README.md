@@ -42,8 +42,8 @@ In the hustle of daily life, reflecting on our mental state and emotions is ofte
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/mood-app.git
-   cd mood-app
+   git clone https://github.com/sushant0709/ai-journal.git
+   cd ai-journal
    ```
 
 2. Install the required dependencies:
